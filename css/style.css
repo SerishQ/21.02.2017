@@ -1,0 +1,44 @@
+
+.row {
+    float: left;
+    margin-left: 30px;
+    display: inline-block;
+}
+div {
+    padding-bottom: 5px;
+    position: relative;
+    display: inline-block;
+}
+
+
+img {
+    height:250px;
+    width:300px;
+    background: blue;
+    margin-left: 40px;
+   
+}
+ 
+h1 {
+    margin-left: 50px;
+}
+.dateTime  {
+  width :5px;
+  height: 8px;
+  position :absolute;
+  top:3%;
+  left:13%;
+}
+.socialButtons {
+    margin-left: 90px;
+    margin-bottom: 30px;
+    margin-top: 5px;
+
+}
+.socialButtons span {
+    width: 50px;
+    height: 5px;
+    padding: 10px;
+    border: 1px solid lightgray;
+   
+}
